@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`searchResults should render searched videos 1`] = `
+<div>
+  <section
+    class="search-results"
+  >
+    <section
+      class="video"
+    >
+      <section
+        class="video--thumbnail"
+      >
+        <a
+          href="https://www.youtube.com/watch?videoId"
+          rel="noreferrer"
+          target="_blank"
+        >
+          <img
+            height="200"
+            src="test-image-url"
+            width="200"
+          />
+        </a>
+      </section>
+      <section
+        class="video--title-and-description"
+      >
+        <a
+          href="https://www.youtube.com/watch?videoId"
+          target="_blank"
+        >
+          test title
+        </a>
+        <p>
+          test description
+        </p>
+      </section>
+    </section>
+  </section>
+</div>
+`;

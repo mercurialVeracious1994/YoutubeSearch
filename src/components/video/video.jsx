@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.scss";
 
-export const Video = ({ videoData }) => {
+const Video = ({ videoData }) => {
   return (
     <section className="video">
       <section className="video--thumbnail">
@@ -22,3 +22,4 @@ export const Video = ({ videoData }) => {
     </section>
   );
 };
+export default Video;

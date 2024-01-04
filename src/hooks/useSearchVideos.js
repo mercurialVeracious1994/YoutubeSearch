@@ -30,7 +30,6 @@ function useSearchVideos(query, pageNum) {
         });
         setNextPageToken(tokenForNextPage);
       } catch (e) {
-        console.error(e);
         setError(false);
       } finally {
         setIsLoading(false);

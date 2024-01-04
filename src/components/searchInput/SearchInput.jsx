@@ -1,7 +1,7 @@
 import React, { useState, useCallback, useEffect } from "react";
 import "./style.scss";
 import useSearchVideos from "../../hooks/useSearchVideos";
-import { SearchResults } from "../searchResults/searchResults";
+import SearchResults from "../searchResults/searchResults";
 import { debounce } from "../../utils/helper";
 
 function SearchInput() {
