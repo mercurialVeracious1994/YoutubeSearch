@@ -1,3 +1,10 @@
+## Reviewer Instructions
+If you are reviewing this submission, then you can do so in two ways
+
+* Look at the changes in [this pull request](https://github.com/equalexperts-assignments/equal-experts-due-broadest-principal-461e9cc5ea18/pull/1)
+* Browse the code on Github
+    
+
  ## Instructions for the assignment
 * Clone this repo on your machine.
 * Use your IDE of choice to complete the assignment.
